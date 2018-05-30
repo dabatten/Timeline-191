@@ -1,0 +1,13 @@
+state={
+	id=765
+	name="STATE_765"
+	provinces={
+		1951 12843 
+	}
+	manpower=980500
+	buildings_max_level_factor=1.000
+	history={
+		owner=GER
+	}
+	state_category=rural
+}

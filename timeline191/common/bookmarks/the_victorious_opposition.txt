@@ -1,0 +1,100 @@
+bookmarks = {
+	bookmark = {
+		name = "VICTORIOUS_OPPOSITION_NAME"
+		desc = "VICTORIOUS_OPPOSITION_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "CSA"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_VICTORIOUS_OPPOSITION_DESC"
+			ideology = monarchy
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		"USA"={
+			history = "USA_VICTORIOUS_OPPOSITION_DESC"
+			ideology = democratic
+			ideas = {
+				home_of_the_free
+				great_depression
+				undisturbed_isolation
+			}
+			focuses = {
+
+			}
+		}
+		"ENG"={
+			history = "ENG_VICTORIOUS_OPPOSITION_DESC"
+			ideology = fascism
+			ideas = {
+				stiff_upper_lip
+				ENG_the_war_to_end_all_wars
+				george_v
+			}
+			focuses = {
+
+			}
+		}
+		"GER"={
+			history = "GER_VICTORIOUS_OPPOSITION_DESC"
+			ideology = monarchy
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		"CSA"={
+			history = "CSA_VICTORIOUS_OPPOSITION_DESC"
+			ideology = fascism
+			ideas = {
+
+			}	
+			focuses = {
+
+			}		
+		}
+		"JAP"={
+			history = "JAP_VICTORIOUS_OPPOSITION_DESC"
+			ideology = fascism
+			ideas = {
+				state_shintoism
+				JAP_zaibatsus
+				JAP_militarism
+			}	
+			focuses = {
+				JAP_the_zero
+				JAP_warrior_spirit
+				JAP_strike_on_the_southern_resource_area
+			}			
+		}
+		"SOV"={
+			history = "SOV_VICTORIOUS_OPPOSITION_DESC"
+			ideology = monarchy
+			ideas = {
+
+			}
+			focuses = {
+
+			}	
+		}
+
+		"---"={
+			history = "OTHER_VICTORIOUS_OPPOSITION_DESC"
+		}
+		
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=763
+	name="STATE_763"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		add_core_of = CSA
+
+	}
+
+	provinces={
+		1998 2055 3972 4955 9773 9908 10740 10894 12301 12848 12893 
+	}
+	manpower=1164942
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

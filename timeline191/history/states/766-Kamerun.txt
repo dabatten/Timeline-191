@@ -1,0 +1,13 @@
+state={
+	id=766
+	name="STATE_766"
+	provinces={
+		1993 2080 5036 5054 6008 6039 7963 8078 9137 11012 11194 12830 
+	}
+	manpower=5443000
+	history={
+		owner=GER
+	}
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=764
+	name="STATE_764"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		801 3941 3975 4627 6823 6850 6958 6971 7466 7588 7646 9923 10441 11888 
+	}
+	manpower=1037764
+	buildings_max_level_factor=1.000
+}
