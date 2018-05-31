@@ -1,14 +1,14 @@
 bookmarks = {
 	bookmark = {
-		name = "VICTORIOUS_OPPOSITION_NAME"
-		desc = "VICTORIOUS_OPPOSITION_DESC"
-		date = 1936.1.1.12
+		name = "RETURN_ENGAGEMENT_NAME"
+		desc = "RETURN_ENGAGEMENT_DESC"
+		date = 1941.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "CSA"
 		default = yes
 
 		"FRA"={
-			history = "FRA_VICTORIOUS_OPPOSITION_DESC"
+			history = "FRA_RETURN_ENGAGEMENT_DESC"
 			ideology = fascism
 			ideas = {
 
@@ -18,19 +18,17 @@ bookmarks = {
 			}
 		}
 		"USA"={
-			history = "USA_VICTORIOUS_OPPOSITION_DESC"
+			history = "USA_RETURN_ENGAGEMENT_DESC"
 			ideology = democratic
 			ideas = {
 				home_of_the_free
-				great_depression
-				undisturbed_isolation
 			}
 			focuses = {
 
 			}
 		}
 		"ENG"={
-			history = "ENG_VICTORIOUS_OPPOSITION_DESC"
+			history = "ENG_RETURN_ENGAGEMENT_DESC"
 			ideology = fascism
 			ideas = {
 				stiff_upper_lip
@@ -42,7 +40,7 @@ bookmarks = {
 			}
 		}
 		"GER"={
-			history = "GER_VICTORIOUS_OPPOSITION_DESC"
+			history = "GER_RETURN_ENGAGEMENT_DESC"
 			ideology = democratic
 			ideas = {
 
@@ -53,7 +51,7 @@ bookmarks = {
 		}
 
 		"CSA"={
-			history = "CSA_VICTORIOUS_OPPOSITION_DESC"
+			history = "CSA_RETURN_ENGAGEMENT_DESC"
 			ideology = fascism
 			ideas = {
 
@@ -63,7 +61,7 @@ bookmarks = {
 			}
 		}
 		"JAP"={
-			history = "JAP_VICTORIOUS_OPPOSITION_DESC"
+			history = "JAP_RETURN_ENGAGEMENT_DESC"
 			ideology = fascism
 			ideas = {
 				state_shintoism
@@ -77,7 +75,7 @@ bookmarks = {
 			}
 		}
 		"SOV"={
-			history = "SOV_VICTORIOUS_OPPOSITION_DESC"
+			history = "SOV_RETURN_ENGAGEMENT_DESC"
 			ideology = fascism
 			ideas = {
 
@@ -88,7 +86,7 @@ bookmarks = {
 		}
 
 		"---"={
-			history = "OTHER_VICTORIOUS_OPPOSITION_DESC"
+			history = "OTHER_RETURN_ENGAGEMENT_DESC"
 		}
 
 
