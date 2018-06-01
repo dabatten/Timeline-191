@@ -539,3 +539,7 @@ QBC = {
 	color = rgb { 158 217 224 }
 	color_ui = rgb { 216 240 243 }
 }
+AHE = {
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 255 255 255 }
+}

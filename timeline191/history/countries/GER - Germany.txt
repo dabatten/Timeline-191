@@ -89,8 +89,18 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Kaiser Wilhelm II"
-	desc = "POLITICS_KAISER_WILHELM_II_DESC"
+	name = "Wilhelm III von Hohenzollern"
+	desc = "POLITICS_WILHELM_III_DESC"
+	picture = "Portrait_Germany_Wilhelm_III.tga"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Wilhelm II von Hohenzollern"
+	desc = "POLITICS_WILHELM_II_DESC"
 	picture = "Portrait_Germany_Wilhelm_II.tga"
 	expire = "1941.6.4"
 	ideology = conservatism
