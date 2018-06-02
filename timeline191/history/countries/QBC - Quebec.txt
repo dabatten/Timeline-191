@@ -1,4 +1,4 @@
-﻿capital = 276
+﻿capital = 468
 
 oob = "CAN_1936"
 
@@ -10,7 +10,7 @@ set_war_support = 0.1
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
-	tech_support = 1		
+	tech_support = 1
 	tech_engineers = 1
 	tech_recon = 1
 	gw_artillery = 1
@@ -26,7 +26,7 @@ set_technology = {
 	fleet_in_being = 1
 }
 
-if = { 
+if = {
 	limit = { NOT = { has_dlc = "Together for Victory" } }
 	set_cosmetic_tag = CAN_ALY
 }
@@ -42,20 +42,20 @@ if = {
 set_politics = {
 
 	parties = {
-		democratic = { 
+		democratic = {
 			popularity = 98
 		}
 
 		fascism = {
 			popularity = 1
 		}
-		
+
 		communism = {
 			popularity = 1
 			#banned = no #default is no
 		}
 	}
-	
+
 	ruling_party = democratic
 	last_election = "1935.10.14"
 	election_frequency = 60
@@ -113,20 +113,20 @@ set_stability = 0.75
 	set_politics = {
 
 		parties = {
-			democratic = { 
+			democratic = {
 				popularity = 98
 			}
 
 			fascism = {
 				popularity = 1
 			}
-			
+
 			communism = {
 				popularity = 1
 				#banned = no #default is no
 			}
 		}
-		
+
 		ruling_party = democratic
 		last_election = "1935.10.14"
 		election_frequency = 60
