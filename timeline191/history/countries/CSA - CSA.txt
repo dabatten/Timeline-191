@@ -1,7 +1,5 @@
 ﻿capital = 362
 
-oob = "USA_1936"
-
 set_research_slots = 4
 set_stability = 0.75
 set_war_support = 0
@@ -72,22 +70,21 @@ add_ideas = {
 # DIPLOMACY
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
-	expire = "1947.1.1"
-	ideology = liberalism
-	traits = {
-		dislikes_germany
-	}
-}
-
-create_country_leader = {
 	name = "Jake Featherston"
 	desc = "POLITICS_JAKE_FEATHERSTON_DESC"
 	picture = "Portrait_CSA_Jake_Featherston.tga"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Huey Long"
+	desc = "POLITICS_HUEY_LONG_DESC"
+	picture = "Portrait_CSA_Huey_Long.tga"
+	expire = "1965.1.1"
+	ideology = liberalism
 	traits = {
 	}
 }

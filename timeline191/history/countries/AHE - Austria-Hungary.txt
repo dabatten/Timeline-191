@@ -59,7 +59,7 @@ set_convoys = 200
 
 
 create_country_leader = {
-	name = "Otto I von Habsburg-Lothringen"
+	name = "Otto von Habsburg-Lothringen I"
 	desc = "POLITICS_OTTO_I_DESC"
 	picture = "Portrait_Austria_Otto_I_2.tga"
 	expire = "1965.1.1"
@@ -70,9 +70,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Karl I von Habsburg"
+	name = "Karl von Habsburg I"
 	desc = "POLITICS_KARL_I_DESC"
-	picture = "Portrait_Austria_Otto_I_2.tga"
+	picture = "Portrait_Austria_Karl_I.tga"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

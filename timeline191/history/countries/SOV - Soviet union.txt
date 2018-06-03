@@ -80,7 +80,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Tsar Mikhail II"
+	name = "Mikhail Romanov II"
 	desc = "POLITICS_KONSTANTIN_RODZAEVSKY_DESC"
 	picture = "Portrait_Russia_Mikhail_II.tga"
 	expire = "1953.3.1"
