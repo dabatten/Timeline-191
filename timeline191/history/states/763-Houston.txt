@@ -7,7 +7,9 @@ state={
 		owner = USA
 		add_core_of = USA
 		add_core_of = CSA
-
+		victory_points = {
+			12301 3
+		}
 	}
 
 	provinces={

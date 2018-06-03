@@ -14,8 +14,10 @@ state={
 				naval_base = 3
 			}
 		}
+		victory_points = {
+			10765 1
+		}
 		add_core_of = CSA
-		add_core_of = MEX
 	}
 
 	provinces={
